@@ -24,6 +24,7 @@ Suppose you want to make three attempts:
 - Attempt 3: Calculate the minimum coins needed for 50 units.
 
 Then, gap is |10 - 25 - 50| = 35
+
 35 can be made with 10 + 20 + 5, so it can be achieved with 3 coins.
 
 Input
